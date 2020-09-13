@@ -18,6 +18,8 @@
 
 # 進制轉換
 
+http://www.kwuntung.net/hkunit/base/base.php
+
 192 從十進制轉換為二進制為 11000000
 
 168 從十進制轉換為二進制為 10101000
@@ -35,6 +37,8 @@
 一旦決定了子網路遮罩，則網路與主機位置就會是『固定』的。
 
 # 進制轉換
+
+http://www.kwuntung.net/hkunit/base/base.php
 
 子網路遮罩如為 255.255.255.0
 
