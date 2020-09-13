@@ -46,6 +46,8 @@ http://www.kwuntung.net/hkunit/base/base.php
 
 # IP/prefix
 
+https://www.calculator.net/ip-subnet-calculator.html
+
 以上虛擬網路位址為 192.168.100.24/24
 
 24 就是子遮罩 255.255.255.0 的 prefix 表示方式
