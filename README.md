@@ -54,3 +54,6 @@
       4               255.255.255.240 14                      14
       5               255.255.255.248 30                      6
       6               255.255.255.252 62                      2
+
+      *Subnet all zeroes and all ones excluded. (Obsolete)
+      *Host all zeroes and all ones excluded.   (Obsolete)
